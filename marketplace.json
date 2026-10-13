@@ -1,0 +1,32 @@
+{
+    "schema": 1,
+    "name": "Inverys Marketplace",
+    "packages": [
+        {
+            "type": "plugin",
+            "slug": "announcement-bar",
+            "name": "Announcement Bar",
+            "description": "Displays a configurable announcement bar at the top of every frontend page. Supports custom message, colors, and dismissal.",
+            "author": "Tom Kilimann",
+            "version": "1.0.0",
+            "license": "MIT",
+            "download": "https://github.com/tklmn/inverys-cms-plugin-announcement-bar/releases/download/1.0.0/announcement-bar-1.0.0.zip",
+            "sha256": "018d36630d0b339967130db597988d40e755c17363fc969e4d1903ce33274c75",
+            "screenshot": "https://raw.githubusercontent.com/tklmn/inverys-cms-plugin-announcement-bar/1.0.0/assets/screenshot.png",
+            "homepage": "https://github.com/tklmn/inverys-cms-plugin-announcement-bar"
+        },
+        {
+            "type": "theme",
+            "slug": "ember",
+            "name": "Ember",
+            "description": "A dark theme with warm amber accents on a true-black base.",
+            "author": "Tom Kilimann",
+            "version": "1.0.0",
+            "license": "MIT",
+            "download": "https://github.com/tklmn/inverys-cms-theme-ember/releases/download/1.0.0/ember-1.0.0.zip",
+            "sha256": "4c75cc81be2f4fc7d15779746cb6c4bb659b6d983e33df8cafbd8c6d3a3fc9b6",
+            "screenshot": "https://raw.githubusercontent.com/tklmn/inverys-cms-theme-ember/1.0.0/assets/screenshot.png",
+            "homepage": "https://github.com/tklmn/inverys-cms-theme-ember"
+        }
+    ]
+}

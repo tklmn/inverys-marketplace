@@ -1,0 +1,7 @@
+{
+    "name": "Inverys Marketplace",
+    "repositories": [
+        "tklmn/inverys-cms-theme-ember",
+        "tklmn/inverys-cms-plugin-announcement-bar"
+    ]
+}
